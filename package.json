@@ -1,0 +1,21 @@
+{
+  "name": "prize",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "css-loader": "^0.28.11",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1",
+    "style-loader": "^0.21.0",
+    "webpack": "^4.12.1",
+    "webpack-cli": "^3.0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
